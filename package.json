@@ -1,0 +1,14 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "Kafka Sub POC",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js "
+  },
+  "author": "Vagner Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "1.15.0"
+  }
+}
